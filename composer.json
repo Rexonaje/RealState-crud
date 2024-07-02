@@ -1,0 +1,20 @@
+{
+    "name": "brambilanicolas/bienesraices",
+    "description": "bienesraices orientado a objetos",
+    "autoload": {
+        "psr-4": {
+            "Brambilanicolas\\Bienesraices\\": "src/",
+            "App\\": "./classes"
+        } 
+         
+    },
+    "authors": [
+        {
+            "name": "Carlos Nicolas Brambilla"
+        }
+    ],
+    "require": {
+        "intervention/image": "2.7"
+    } 
+    
+}
